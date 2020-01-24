@@ -2,19 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3a1cd314-e71f-4a21-990b-4578ee8054dc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/lib/solid_princples/open_closed_princple/car.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/solid_princples/open_closed_princple/imove.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/solid_princples/open_closed_princple/ivehicle.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/solid_princples/open_closed_princple/move_on_the_road.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/solid_princples/open_closed_princple/move_on_the_sea.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/solid_princples/open_closed_princple/move_on_the_sky.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/solid_princples/open_closed_princple/plane.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/solid_princples/open_closed_princple/ship.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/solid_princples/open_closed_princple/trip.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/solid_princples/open_closed_princple/vehicle.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/solid_princples/interface_segregation_princple/after_used_interface_segregation/interface_implementaion/bus.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/solid_princples/interface_segregation_princple/after_used_interface_segregation/interface_implementaion/car.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/solid_princples/interface_segregation_princple/after_used_interface_segregation/interface_implementaion/truck.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/solid_princples/interface_segregation_princple/after_used_interface_segregation/interface_segregation/carry_passenger.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/solid_princples/interface_segregation_princple/after_used_interface_segregation/interface_segregation/heavy_weight.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/solid_princples/interface_segregation_princple/after_used_interface_segregation/interface_segregation/music.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/solid_princples/interface_segregation_princple/after_used_interface_segregation/interface_segregation/vehicle.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/solid_princples/interface_segregation_princple/befor_used_interface_segregation/vehicle.dart" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/bin/main.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/solid_princples/open_closed_princple/bus.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/solid_princples/open_closed_princple/bus.dart" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,6 +55,9 @@
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Eslam Shawky\IdeaProjects\SOLIDPrincple\lib\solid_princples\interface_segregation\interface_segregation_implementation\interface_segregation" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Eslam Shawky\IdeaProjects\SOLIDPrincple\lib\solid_princples" />
     </key>
@@ -114,23 +113,31 @@
       <option name="project" value="LOCAL" />
       <updated>1579785461113</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="third_commit _open closed principle">
+      <created>1579802332187</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1579802332187</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first_commit" />
     <MESSAGE value="second_commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="second_commit" />
+    <MESSAGE value="third_commit _open closed principle" />
+    <option name="LAST_COMMIT_MESSAGE" value="third_commit _open closed principle" />
   </component>
   <component name="WindowStateProjectService">
     <state x="574" y="132" key="#com.intellij.ide.util.MemberChooser" timestamp="1579799595156">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="574" y="132" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1579799595156" />
-    <state x="402" y="8" key="CommitChangelistDialog2" timestamp="1579785459824">
+    <state x="402" y="8" key="CommitChangelistDialog2" timestamp="1579802329593">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="402" y="8" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1579785459824" />
+    <state x="402" y="8" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1579802329593" />
     <state width="1493" height="171" key="GridCell.Tab.0.bottom" timestamp="1579802191810">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -147,10 +154,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1493" height="171" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1579802191810" />
-    <state x="361" y="149" key="Vcs.Push.Dialog.v2" timestamp="1579785477126">
+    <state x="361" y="149" key="Vcs.Push.Dialog.v2" timestamp="1579802342984">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="149" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1579785477126" />
+    <state x="361" y="149" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1579802342984" />
     <state x="93" y="93" width="1350" height="638" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1579785436877">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
