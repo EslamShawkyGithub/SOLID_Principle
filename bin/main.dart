@@ -6,6 +6,7 @@ import 'package:SOLIDPrincple/solid_princples/dependency_inversion_principle/aft
 import 'package:SOLIDPrincple/solid_princples/dependency_inversion_principle/after_used_dependency_inversion_principle/solar.dart';
 
 void main() {
+
   var bus = Bus(Solar());
   bus.solar.getSolarToBus();
 
