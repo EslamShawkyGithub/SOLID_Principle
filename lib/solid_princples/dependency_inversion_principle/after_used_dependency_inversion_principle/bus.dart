@@ -1,7 +1,6 @@
 import 'package:SOLIDPrincple/solid_princples/dependency_inversion_principle/after_used_dependency_inversion_principle/solar_interface.dart';
 
-class Bus{
-
+class Bus {
   ISolar _solar;
 
   Bus(this._solar);
@@ -11,5 +10,4 @@ class Bus{
   set solar(ISolar value) {
     _solar = value;
   }
-
 }

@@ -1,5 +1,7 @@
-abstract class Vehicle{
+abstract class Vehicle {
   void move();
+
   void stop();
+
   void speedIncrease();
 }

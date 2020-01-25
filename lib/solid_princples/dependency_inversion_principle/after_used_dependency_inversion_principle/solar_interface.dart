@@ -1,3 +1,3 @@
-abstract class ISolar{
+abstract class ISolar {
   void getSolarToBus();
 }

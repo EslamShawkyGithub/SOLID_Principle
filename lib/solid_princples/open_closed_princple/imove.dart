@@ -1,3 +1,3 @@
-abstract class IMove{
+abstract class IMove {
   String move();
 }

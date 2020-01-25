@@ -1,10 +1,9 @@
-class Route{
-
+class Route {
   String _source;
   String _destination;
   int _distance;
 
-  Route(this._source,this._destination,this._distance);
+  Route(this._source, this._destination, this._distance);
 
   int get distance => _distance;
 
@@ -23,5 +22,4 @@ class Route{
   set source(String value) {
     _source = value;
   }
-
 }

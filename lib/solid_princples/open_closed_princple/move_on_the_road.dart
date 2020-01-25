@@ -1,6 +1,6 @@
 import 'package:SOLIDPrincple/solid_princples/open_closed_princple/imove.dart';
 
-class MoveOnTheRoad implements IMove{
+class MoveOnTheRoad implements IMove {
   @override
   String move() {
     // TODO: implement move

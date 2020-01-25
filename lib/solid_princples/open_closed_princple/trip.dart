@@ -1,12 +1,12 @@
 import 'package:SOLIDPrincple/solid_princples/open_closed_princple/imove.dart';
 
-class Trip{
+class Trip {
   int _numberTrip;
   int _tripPrice;
   int _duration;
   IMove _vehicle;
 
-  Trip(this._vehicle,this._numberTrip,this._tripPrice,this._duration);
+  Trip(this._vehicle, this._numberTrip, this._tripPrice, this._duration);
 
   IMove get vehicle => _vehicle;
 
@@ -32,7 +32,7 @@ class Trip{
     _numberTrip = value;
   }
 
-  String move(){
+  String move() {
     return _vehicle.move();
   }
 }

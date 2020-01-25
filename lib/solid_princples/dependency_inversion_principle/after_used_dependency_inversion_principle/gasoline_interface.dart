@@ -1,5 +1,3 @@
-abstract class IGasoline{
-
+abstract class IGasoline {
   void getGasolineToCar();
-
 }

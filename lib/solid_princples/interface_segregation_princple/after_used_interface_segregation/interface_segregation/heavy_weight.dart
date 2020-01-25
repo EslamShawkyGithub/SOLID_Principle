@@ -1,3 +1,3 @@
-abstract class HeavyWeight{
+abstract class HeavyWeight {
   void carryHeavyWeight();
 }

@@ -1,3 +1,3 @@
-abstract class Passenger{
+abstract class Passenger {
   void carryPassenger();
 }

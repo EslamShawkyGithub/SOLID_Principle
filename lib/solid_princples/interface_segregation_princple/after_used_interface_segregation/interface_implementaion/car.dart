@@ -1,7 +1,7 @@
 import 'package:SOLIDPrincple/solid_princples/interface_segregation_princple/after_used_interface_segregation/interface_segregation/music.dart';
 import 'package:SOLIDPrincple/solid_princples/interface_segregation_princple/after_used_interface_segregation/interface_segregation/vehicle.dart';
 
-class Car implements Vehicle , Music{
+class Car implements Vehicle, Music {
   @override
   void move() {
     // TODO: implement move
@@ -26,5 +26,4 @@ class Car implements Vehicle , Music{
   void playMusic() {
     // TODO: implement playMusic
   }
-
 }

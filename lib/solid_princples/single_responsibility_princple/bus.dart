@@ -1,8 +1,7 @@
 import 'package:SOLIDPrincple/solid_princples/single_responsibility_princple/driver.dart';
 import 'package:SOLIDPrincple/solid_princples/single_responsibility_princple/route.dart';
 
-class Bus{
-
+class Bus {
   String _color;
   int _numberOfPassenger;
   int _number;
@@ -11,7 +10,8 @@ class Bus{
   Driver _driver;
   Route _routes;
 
-  Bus(this._color,this._number,this._numberOfPassenger,this._maximumSpeed,this._doors);
+  Bus(this._color, this._number, this._numberOfPassenger, this._maximumSpeed,
+      this._doors);
 
   Driver get driver => _driver;
 
@@ -55,10 +55,12 @@ class Bus{
     _numberOfPassenger = value;
   }
 
-  void addRoute(Route route){
-   print('source:${route.source} destination: ${route.destination} distance:${route.distance.toString()}');
+  void addRoute(Route route) {
+    print(
+        'source:${route.source} destination: ${route.destination} distance:${route.distance.toString()}');
   }
-  String move(){
+
+  String move() {
     return 'name of driver:${driver.name} from ${routes.source} to ${routes.destination} ';
   }
 }

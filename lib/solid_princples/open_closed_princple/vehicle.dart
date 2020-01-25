@@ -3,7 +3,7 @@ import 'package:SOLIDPrincple/solid_princples/open_closed_princple/imove.dart';
 import 'package:SOLIDPrincple/solid_princples/open_closed_princple/ivehicle.dart';
 import 'package:SOLIDPrincple/solid_princples/open_closed_princple/route.dart';
 
-abstract class Vehicle implements IVehicle{
+abstract class Vehicle implements IVehicle {
   String _color;
   int _maximumSpeed;
   Driver _driver;

@@ -1,6 +1,6 @@
 import 'package:SOLIDPrincple/solid_princples/interface_segregation_princple/after_used_interface_segregation/interface_segregation/vehicle.dart';
 
-class Bus implements Vehicle{
+class Bus implements Vehicle {
   @override
   void move() {
     // TODO: implement move
@@ -15,5 +15,4 @@ class Bus implements Vehicle{
   void stop() {
     // TODO: implement stop
   }
-
 }

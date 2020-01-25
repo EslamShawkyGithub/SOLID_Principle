@@ -1,3 +1,3 @@
-abstract class IGas{
+abstract class IGas {
   void getGasToShip();
 }
