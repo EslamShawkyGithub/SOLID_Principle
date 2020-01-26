@@ -1,4 +1,3 @@
-
 import 'package:SOLIDPrincple/solid_princples/single_responsibility_princple/after_used_single_responsibility_princple/driver.dart';
 import 'package:SOLIDPrincple/solid_princples/single_responsibility_princple/after_used_single_responsibility_princple/route.dart';
 

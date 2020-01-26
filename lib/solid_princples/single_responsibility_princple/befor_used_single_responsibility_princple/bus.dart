@@ -1,5 +1,5 @@
 // class Bus  contains more responsibility and should contains single responsibility
-class Bus{
+class Bus {
   String _color;
   int _numberOfPassenger;
   int _number;

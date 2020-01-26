@@ -1,3 +1,1 @@
-abstract class IVehicle {
-
-}
+abstract class IVehicle {}
