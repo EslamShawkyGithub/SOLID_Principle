@@ -5,6 +5,6 @@ class Car extends Vehicle {
 
   @override
   int move() {
-    return super.move();
+    return super.maximumSpeed;
   }
 }

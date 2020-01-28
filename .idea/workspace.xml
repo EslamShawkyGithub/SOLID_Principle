@@ -2,13 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3a1cd314-e71f-4a21-990b-4578ee8054dc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/lib/solid_princples/liskov_substitution_principle/calcu.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/solid_princples/liskov_substitution_principle/car.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/solid_princples/liskov_substitution_principle/vehicle.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bin/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/bin/main.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/solid_princples/open_closed_princple/ivehicle.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/solid_princples/open_closed_princple/ivehicle.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/solid_princples/interface_segregation_princple/after_used_interface_segregation/interface_implementaion/car.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/solid_princples/interface_segregation_princple/after_used_interface_segregation/interface_implementaion/car.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/solid_princples/interface_segregation_princple/after_used_interface_segregation/interface_implementaion/truck.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/solid_princples/interface_segregation_princple/after_used_interface_segregation/interface_implementaion/truck.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/solid_princples/liskov_substitution_principle/car.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/solid_princples/liskov_substitution_principle/car.dart" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +47,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="dart.analysis.tool.window.force.activate" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/lib/solid_princples/liskov_substitution_principle" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
@@ -150,7 +148,14 @@
       <option name="project" value="LOCAL" />
       <updated>1579967724869</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="nine_commit_Liskov substitution principle">
+      <created>1580078737530</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1580078737530</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -161,7 +166,8 @@
     <MESSAGE value="six_commit_dependency inversion principle" />
     <MESSAGE value="seven_commit_dependency inversion principle update" />
     <MESSAGE value="eight_commit_single responsibility principle update" />
-    <option name="LAST_COMMIT_MESSAGE" value="eight_commit_single responsibility principle update" />
+    <MESSAGE value="nine_commit_Liskov substitution principle" />
+    <option name="LAST_COMMIT_MESSAGE" value="nine_commit_Liskov substitution principle" />
   </component>
   <component name="WindowStateProjectService">
     <state x="361" y="75" key="#Plugins" timestamp="1580073881244">
@@ -176,42 +182,46 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="449" y="152" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1536.824@0.0.1536.824" timestamp="1580073602000" />
-    <state x="402" y="8" key="CommitChangelistDialog2" timestamp="1579967723103">
+    <state x="402" y="8" key="CommitChangelistDialog2" timestamp="1580078735048">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="402" y="8" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1579967723103" />
+    <state x="402" y="8" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1580078735048" />
     <state x="549" y="171" key="FileChooserDialogImpl" timestamp="1579992830126">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="549" y="171" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1579992830126" />
-    <state width="1493" height="171" key="GridCell.Tab.0.bottom" timestamp="1580078657236">
+    <state width="1493" height="171" key="GridCell.Tab.0.bottom" timestamp="1580219904462">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="171" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1580078657236" />
-    <state width="1493" height="171" key="GridCell.Tab.0.center" timestamp="1580078657236">
+    <state width="1493" height="171" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1580219904462" />
+    <state width="1493" height="171" key="GridCell.Tab.0.center" timestamp="1580219904462">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="171" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1580078657236" />
-    <state width="1493" height="171" key="GridCell.Tab.0.left" timestamp="1580078657236">
+    <state width="1493" height="171" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1580219904462" />
+    <state width="1493" height="171" key="GridCell.Tab.0.left" timestamp="1580219904462">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="171" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1580078657236" />
-    <state width="1493" height="171" key="GridCell.Tab.0.right" timestamp="1580078657236">
+    <state width="1493" height="171" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1580219904462" />
+    <state width="1493" height="171" key="GridCell.Tab.0.right" timestamp="1580219904462">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="171" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1580078657236" />
+    <state width="1493" height="171" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1580219904462" />
     <state x="279" y="58" key="SettingsEditor" timestamp="1580073590994">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="279" y="58" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1580073590994" />
-    <state x="361" y="149" key="Vcs.Push.Dialog.v2" timestamp="1579967732619">
+    <state x="361" y="149" key="Vcs.Push.Dialog.v2" timestamp="1580078766187">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="149" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1579967732619" />
+    <state x="361" y="149" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1580078766187" />
     <state x="93" y="93" width="1350" height="638" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1579785436877">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="93" y="93" width="1350" height="638" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.0.1536.824@0.0.1536.824" timestamp="1579785436877" />
+    <state x="209" y="141" key="new project wizard" timestamp="1580162316617">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="209" y="141" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1580162316617" />
     <state x="425" y="187" key="run.anything.popup" timestamp="1579788455673">
       <screen x="0" y="0" width="1536" height="824" />
     </state>

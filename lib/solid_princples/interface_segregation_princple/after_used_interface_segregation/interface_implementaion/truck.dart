@@ -4,5 +4,6 @@ class Truck implements HeavyWeight {
   @override
   void carryHeavyWeight() {
     // TODO: implement carryHeavyWeight
+    print('Truck can carry Heavy Weight');
   }
 }
